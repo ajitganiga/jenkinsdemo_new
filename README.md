@@ -22,5 +22,3 @@ Want to see more particles demos? [Checkout this collection](https://codepen.io/
 
 Want to see more templates or want to share yours? [Checkout this README](https://github.com/tsparticles/templates)
 ___
-___
-__
